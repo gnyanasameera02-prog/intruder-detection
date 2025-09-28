@@ -1,0 +1,8 @@
+opencv-python
+deepface
+tensorflow
+twilio
+requests
+flask
+flask-socketio
+pillow

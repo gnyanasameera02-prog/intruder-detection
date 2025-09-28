@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../intruder"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../venv"
+		},
+		{
+			"path": "../carplate"
+		},
+		{
+			"path": "../Face-Mask-Detection"
+		}
+	]
+}

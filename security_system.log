@@ -1,0 +1,294 @@
+2025-07-08 13:44:41,820 - INFO - Alert email sent successfully for intruder
+2025-07-08 13:44:42,748 - ERROR - Failed to send SMS alert: Fast2SMS error: {"return":false,"status_code":412,"message":"Invalid Authentication, Check Authorization Key"}
+2025-07-08 13:45:11,827 - INFO - Alert email sent successfully for intruder
+2025-07-08 13:45:12,237 - ERROR - Failed to send SMS alert: Fast2SMS error: {"return":false,"status_code":412,"message":"Invalid Authentication, Check Authorization Key"}
+2025-07-08 14:15:47,157 - ERROR - Application error: 'SmartIntruderDetector' object has no attribute 'setup_alerts'
+2025-07-08 15:32:27,792 - INFO - Alert email sent successfully for intruder
+2025-07-08 15:32:34,134 - ERROR - Failed to send SMS alert: Fast2SMS error: {"return":false,"status_code":412,"message":"Invalid Authentication, Check Authorization Key"}
+2025-07-08 17:49:20,393 - INFO - Alert email sent successfully for intruder
+2025-07-08 17:49:22,015 - ERROR - Failed to send SMS alert: Fast2SMS error: {"return":false,"status_code":412,"message":"Invalid Authentication, Check Authorization Key"}
+2025-07-08 18:49:02,983 - INFO - Alert email sent successfully for intruder
+2025-07-08 18:49:05,404 - ERROR - Failed to send SMS alert: Fast2SMS error: {"return":false,"status_code":412,"message":"Invalid Authentication, Check Authorization Key"}
+2025-07-09 12:08:55,686 - ERROR - Face verification error: Exception while processing img1_path
+2025-07-09 12:09:07,556 - WARNING - Intruder detected. Alert triggered.
+2025-07-09 12:09:08,039 - ERROR - Face verification error: Exception while processing img2_path
+2025-07-09 12:09:10,596 - ERROR - Face verification error: Exception while processing img1_path
+2025-07-09 12:09:13,096 - ERROR - Face verification error: Exception while processing img1_path
+2025-07-09 12:09:19,613 - INFO - Alert email sent.
+2025-07-09 12:14:26,937 - WARNING - No face detected in input frame
+2025-07-09 12:14:38,694 - WARNING - Intruder detected. Alert triggered.
+2025-07-09 12:14:38,827 - WARNING - No face detected in input frame
+2025-07-09 12:14:49,299 - INFO - Alert email sent.
+2025-07-09 12:22:22,833 - INFO - Alert email sent successfully for intruder
+2025-07-09 12:22:53,085 - INFO - Alert email sent successfully for intruder
+2025-07-09 13:14:42,005 - INFO - Alert email sent successfully for intruder
+2025-07-09 13:27:09,377 - INFO - Face matched. Distance: 5.9216 | Is owner: False
+2025-07-09 13:27:09,650 - INFO - Face matched. Distance: 6.3489 | Is owner: False
+2025-07-09 13:27:09,897 - INFO - Face matched. Distance: 5.9806 | Is owner: False
+2025-07-09 13:27:10,168 - INFO - Face matched. Distance: 5.4975 | Is owner: False
+2025-07-09 13:27:10,441 - INFO - Face matched. Distance: 5.9716 | Is owner: False
+2025-07-09 13:27:10,688 - INFO - Face matched. Distance: 5.3695 | Is owner: False
+2025-07-09 13:27:10,926 - INFO - Face matched. Distance: 5.4906 | Is owner: False
+2025-07-09 13:27:11,179 - INFO - Face matched. Distance: 4.7740 | Is owner: False
+2025-07-09 13:27:11,476 - INFO - Face matched. Distance: 5.1886 | Is owner: False
+2025-07-09 13:27:11,726 - INFO - Face matched. Distance: 5.8339 | Is owner: False
+2025-07-09 13:27:11,975 - INFO - Face matched. Distance: 5.3533 | Is owner: False
+2025-07-09 13:27:12,246 - INFO - Face matched. Distance: 4.9514 | Is owner: False
+2025-07-09 13:27:12,532 - INFO - Face matched. Distance: 6.5263 | Is owner: False
+2025-07-09 13:27:12,816 - INFO - Face matched. Distance: 5.9636 | Is owner: False
+2025-07-09 13:27:13,077 - INFO - Face matched. Distance: 6.2686 | Is owner: False
+2025-07-09 13:27:13,372 - INFO - Face matched. Distance: 5.9963 | Is owner: False
+2025-07-09 13:27:13,658 - INFO - Face matched. Distance: 5.9323 | Is owner: False
+2025-07-09 13:27:13,919 - INFO - Face matched. Distance: 6.0090 | Is owner: False
+2025-07-09 13:27:14,176 - INFO - Face matched. Distance: 5.3714 | Is owner: False
+2025-07-09 13:27:14,448 - INFO - Face matched. Distance: 3.8316 | Is owner: False
+2025-07-09 13:27:14,717 - INFO - Face matched. Distance: 5.3869 | Is owner: False
+2025-07-09 13:27:14,989 - INFO - Face matched. Distance: 5.2095 | Is owner: False
+2025-07-09 13:27:15,257 - INFO - Face matched. Distance: 6.3762 | Is owner: False
+2025-07-09 13:27:15,530 - INFO - Face matched. Distance: 4.6908 | Is owner: False
+2025-07-09 13:27:15,824 - INFO - Face matched. Distance: 5.7215 | Is owner: False
+2025-07-09 13:27:16,147 - INFO - Face matched. Distance: 5.3809 | Is owner: False
+2025-07-09 13:27:16,446 - INFO - Face matched. Distance: 6.0797 | Is owner: False
+2025-07-09 13:27:16,777 - INFO - Face matched. Distance: 5.3283 | Is owner: False
+2025-07-09 13:27:17,117 - INFO - Face matched. Distance: 4.6900 | Is owner: False
+2025-07-09 13:27:17,396 - INFO - Face matched. Distance: 6.2736 | Is owner: False
+2025-07-09 13:27:17,658 - INFO - Face matched. Distance: 6.1193 | Is owner: False
+2025-07-09 13:27:17,947 - INFO - Face matched. Distance: 6.4807 | Is owner: False
+2025-07-09 13:27:18,247 - INFO - Face matched. Distance: 5.7962 | Is owner: False
+2025-07-09 13:27:18,596 - INFO - Face matched. Distance: 5.5656 | Is owner: False
+2025-07-09 13:27:18,867 - INFO - Face matched. Distance: 5.6467 | Is owner: False
+2025-07-09 13:27:19,127 - INFO - Face matched. Distance: 4.7158 | Is owner: False
+2025-07-09 13:27:19,409 - INFO - Face matched. Distance: 6.1739 | Is owner: False
+2025-07-09 13:27:19,726 - INFO - Face matched. Distance: 4.3878 | Is owner: False
+2025-07-09 13:40:49,553 - INFO - Distance: 4.4096 | Owner: False
+2025-07-09 13:40:49,843 - INFO - Distance: 5.2894 | Owner: False
+2025-07-09 13:40:50,113 - INFO - Distance: 6.0343 | Owner: False
+2025-07-09 13:40:50,399 - INFO - Distance: 5.3888 | Owner: False
+2025-07-09 13:40:50,676 - INFO - Distance: 5.6611 | Owner: False
+2025-07-09 13:40:50,928 - INFO - Distance: 5.7420 | Owner: False
+2025-07-09 13:40:51,174 - INFO - Distance: 5.2190 | Owner: False
+2025-07-09 13:40:51,416 - INFO - Distance: 5.8540 | Owner: False
+2025-07-09 13:40:51,676 - INFO - Distance: 4.0708 | Owner: False
+2025-07-09 13:40:51,932 - INFO - Distance: 3.1523 | Owner: False
+2025-07-09 13:42:56,823 - INFO - Alert email sent successfully for intruder
+2025-07-10 07:59:04,090 - INFO - Alert email sent successfully for intruder
+2025-07-10 07:59:37,739 - INFO - Alert email sent successfully for intruder
+2025-07-10 11:06:22,769 - INFO - Alert email sent successfully for intruder
+2025-07-10 11:08:19,382 - INFO - Alert email sent successfully for intruder
+2025-07-10 11:21:43,743 - INFO - Alert email sent successfully for intruder
+2025-07-10 11:24:00,358 - INFO - Alert email sent successfully for intruder
+2025-07-10 11:49:23,258 - INFO - Alert email sent successfully for intruder
+2025-07-10 11:59:48,609 - INFO - Alert email sent successfully for intruder
+2025-07-11 10:50:24,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.38:5000
+2025-07-11 10:50:24,662 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-11 10:50:24,662 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 10:50:28,981 - WARNING -  * Debugger is active!
+2025-07-11 10:50:28,992 - INFO -  * Debugger PIN: 105-789-474
+2025-07-11 10:50:34,009 - INFO -  * Detected change in 'C:\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+2025-07-11 10:50:34,020 - INFO -  * Detected change in 'C:\\Python310\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-07-11 10:50:34,047 - INFO -  * Detected change in 'C:\\Python310\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-07-11 10:50:34,068 - INFO -  * Detected change in 'C:\\Python310\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-07-11 10:50:34,715 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 10:50:39,129 - WARNING -  * Debugger is active!
+2025-07-11 10:50:39,151 - INFO -  * Debugger PIN: 105-789-474
+2025-07-11 10:50:39,197 - INFO - 127.0.0.1 - - [11/Jul/2025 10:50:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-11 10:50:39,338 - INFO - 127.0.0.1 - - [11/Jul/2025 10:50:39] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-11 10:50:39,345 - INFO - 127.0.0.1 - - [11/Jul/2025 10:50:39] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-11 10:50:39,362 - INFO - 127.0.0.1 - - [11/Jul/2025 10:50:39] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=GlS75B4HMOMYpHJw1J3A HTTP/1.1" 200 -
+2025-07-11 10:50:39,851 - INFO - 127.0.0.1 - - [11/Jul/2025 10:50:39] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-11 10:50:49,527 - INFO - 192.168.1.38 - - [11/Jul/2025 10:50:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-11 10:50:49,561 - INFO - 192.168.1.38 - - [11/Jul/2025 10:50:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-11 10:50:49,567 - INFO - 192.168.1.38 - - [11/Jul/2025 10:50:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-11 10:50:49,960 - INFO - 192.168.1.38 - - [11/Jul/2025 10:50:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-11 10:57:54,984 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.175:5000
+2025-07-11 10:57:54,984 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-11 10:57:54,986 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 10:58:00,353 - WARNING -  * Debugger is active!
+2025-07-11 10:58:00,360 - INFO -  * Debugger PIN: 105-789-474
+2025-07-11 10:58:00,406 - INFO - 127.0.0.1 - - [11/Jul/2025 10:58:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-11 10:58:00,505 - INFO - 127.0.0.1 - - [11/Jul/2025 10:58:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-11 10:58:00,533 - INFO - 127.0.0.1 - - [11/Jul/2025 10:58:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-11 10:58:00,600 - INFO - 127.0.0.1 - - [11/Jul/2025 10:58:00] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=GBMOvKnB2GpfqAizFvTN HTTP/1.1" 200 -
+2025-07-11 10:58:59,438 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.175:5000
+2025-07-11 10:58:59,438 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-11 10:58:59,438 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 10:59:03,793 - WARNING -  * Debugger is active!
+2025-07-11 10:59:03,801 - INFO -  * Debugger PIN: 105-789-474
+2025-07-11 10:59:03,847 - INFO - 127.0.0.1 - - [11/Jul/2025 10:59:03] "GET / HTTP/1.1" 200 -
+2025-07-11 10:59:03,868 - INFO - 127.0.0.1 - - [11/Jul/2025 10:59:03] "GET /video_feed HTTP/1.1" 200 -
+2025-07-11 10:59:04,243 - INFO - 127.0.0.1 - - [11/Jul/2025 10:59:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-11 10:59:17,657 - INFO - 127.0.0.1 - - [11/Jul/2025 10:59:17] "POST /start_detection HTTP/1.1" 200 -
+2025-07-11 11:01:19,868 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.175:5000
+2025-07-11 11:01:19,868 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-11 11:01:19,869 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 11:01:24,601 - WARNING -  * Debugger is active!
+2025-07-11 11:01:24,621 - INFO -  * Debugger PIN: 105-789-474
+2025-07-11 11:01:24,738 - INFO - 127.0.0.1 - - [11/Jul/2025 11:01:24] "GET / HTTP/1.1" 200 -
+2025-07-11 11:01:24,783 - INFO - 127.0.0.1 - - [11/Jul/2025 11:01:24] "GET /video_feed HTTP/1.1" 200 -
+2025-07-11 11:01:43,153 - INFO - 127.0.0.1 - - [11/Jul/2025 11:01:43] "POST /start_detection HTTP/1.1" 200 -
+2025-07-11 11:01:43,161 - INFO - 127.0.0.1 - - [11/Jul/2025 11:01:43] "POST /start_detection HTTP/1.1" 200 -
+2025-07-11 11:04:07,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.175:5000
+2025-07-11 11:04:07,208 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-11 11:04:07,209 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 11:04:11,692 - WARNING -  * Debugger is active!
+2025-07-11 11:04:11,697 - INFO -  * Debugger PIN: 105-789-474
+2025-07-11 11:04:11,763 - INFO - 127.0.0.1 - - [11/Jul/2025 11:04:11] "GET / HTTP/1.1" 200 -
+2025-07-11 11:04:12,140 - INFO - 127.0.0.1 - - [11/Jul/2025 11:04:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-11 11:07:58,181 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder\\intr.py', reloading
+2025-07-11 11:07:58,203 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder\\intr.py', reloading
+2025-07-11 11:07:58,203 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder\\intr.py', reloading
+2025-07-11 11:07:58,203 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder\\intr.py', reloading
+2025-07-11 11:07:59,382 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-11 12:19:17,646 - INFO - Alert email sent successfully for intruder
+2025-07-11 12:46:53,699 - INFO - Alert email sent successfully for intruder
+2025-07-11 12:48:44,863 - INFO - Alert email sent successfully for intruder
+2025-07-11 12:54:22,347 - INFO - Alert email sent successfully for intruder
+2025-07-13 00:02:11,906 - INFO - Alert email sent successfully for intruder
+2025-07-13 00:04:56,241 - INFO - Alert email sent successfully for intruder
+2025-07-13 00:05:27,731 - INFO - Alert email sent successfully for intruder
+2025-07-13 00:06:20,801 - INFO - Alert email sent successfully for intruder
+2025-07-13 10:33:45,927 - INFO - Alert email sent successfully for intruder
+2025-07-13 10:38:28,377 - INFO - Alert email sent successfully for intruder
+2025-07-13 10:42:35,821 - INFO - Alert email sent successfully for intruder
+2025-07-13 10:43:10,347 - INFO - Alert email sent successfully for intruder
+2025-07-13 16:34:50,778 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.145:5000
+2025-07-13 16:34:50,780 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-13 16:34:50,780 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-13 16:34:57,288 - WARNING -  * Debugger is active!
+2025-07-13 16:34:57,296 - INFO -  * Debugger PIN: 105-789-474
+2025-07-13 16:35:00,016 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET / HTTP/1.1" 200 -
+2025-07-13 16:35:00,297 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-07-13 16:35:00,400 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2025-07-13 16:35:00,413 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-07-13 16:35:00,578 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:35:00,582 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /socket.io/?EIO=4&transport=polling&t=PW3TQs6 HTTP/1.1" 200 -
+2025-07-13 16:35:00,638 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "POST /socket.io/?EIO=4&transport=polling&t=PW3TQtJ&sid=4-FtGpcfjGe6cjdQAAAA HTTP/1.1" 200 -
+2025-07-13 16:35:00,645 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /socket.io/?EIO=4&transport=polling&t=PW3TQtO&sid=4-FtGpcfjGe6cjdQAAAA HTTP/1.1" 200 -
+2025-07-13 16:35:00,959 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:00] "GET /socket.io/?EIO=4&transport=polling&t=PW3TQyN&sid=4-FtGpcfjGe6cjdQAAAA HTTP/1.1" 200 -
+2025-07-13 16:35:01,016 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-13 16:35:20,672 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:20] "[33mGET /src/assets/fonts/inter-display/ttf/InterDisplay-Regular.ttf HTTP/1.1[0m" 404 -
+2025-07-13 16:35:25,103 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:25] "POST /api/system/start HTTP/1.1" 200 -
+2025-07-13 16:35:48,350 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:48] "GET /socket.io/?EIO=4&transport=websocket&sid=4-FtGpcfjGe6cjdQAAAA HTTP/1.1" 200 -
+2025-07-13 16:35:48,670 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:48] "GET /setup HTTP/1.1" 200 -
+2025-07-13 16:35:48,752 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:35:48,825 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:48] "GET /static/js/setup.js HTTP/1.1" 200 -
+2025-07-13 16:35:48,979 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:35:49,121 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:49] "GET /socket.io/?EIO=4&transport=polling&t=PW3TchR HTTP/1.1" 200 -
+2025-07-13 16:35:49,144 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:49] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:35:49,168 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:49] "POST /socket.io/?EIO=4&transport=polling&t=PW3TcjY&sid=_hU1QHOLzEqaYHJVAAAC HTTP/1.1" 200 -
+2025-07-13 16:35:49,181 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:49] "GET /socket.io/?EIO=4&transport=polling&t=PW3TcjZ&sid=_hU1QHOLzEqaYHJVAAAC HTTP/1.1" 200 -
+2025-07-13 16:35:57,693 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:57] "GET / HTTP/1.1" 200 -
+2025-07-13 16:35:57,825 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:57] "GET /socket.io/?EIO=4&transport=websocket&sid=_hU1QHOLzEqaYHJVAAAC HTTP/1.1" 200 -
+2025-07-13 16:35:57,849 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:35:57,959 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:57] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:35:57,989 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:57] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2025-07-13 16:35:58,135 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:58] "GET /socket.io/?EIO=4&transport=polling&t=PW3Tets HTTP/1.1" 200 -
+2025-07-13 16:35:58,139 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:58] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:35:58,213 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:58] "POST /socket.io/?EIO=4&transport=polling&t=PW3Tew2&sid=lFo4Xfh3glGvWw-uAAAE HTTP/1.1" 200 -
+2025-07-13 16:35:58,339 - INFO - 127.0.0.1 - - [13/Jul/2025 16:35:58] "GET /socket.io/?EIO=4&transport=polling&t=PW3Tew3&sid=lFo4Xfh3glGvWw-uAAAE HTTP/1.1" 200 -
+2025-07-13 16:36:19,993 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:19] "POST /api/detection/toggle HTTP/1.1" 200 -
+2025-07-13 16:36:35,166 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:35] "GET /socket.io/?EIO=4&transport=websocket&sid=lFo4Xfh3glGvWw-uAAAE HTTP/1.1" 200 -
+2025-07-13 16:36:35,493 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:35] "GET /setup HTTP/1.1" 200 -
+2025-07-13 16:36:35,666 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:36:35,843 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:35] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:36:35,869 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:35] "[36mGET /static/js/setup.js HTTP/1.1[0m" 304 -
+2025-07-13 16:36:35,996 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:35] "GET /socket.io/?EIO=4&transport=polling&t=PW3To8V HTTP/1.1" 200 -
+2025-07-13 16:36:36,017 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:36] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:36:36,194 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:36] "POST /socket.io/?EIO=4&transport=polling&t=PW3ToBA&sid=TuQFJDgtkGanHHoOAAAG HTTP/1.1" 200 -
+2025-07-13 16:36:36,230 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:36] "GET /socket.io/?EIO=4&transport=polling&t=PW3ToBB&sid=TuQFJDgtkGanHHoOAAAG HTTP/1.1" 200 -
+2025-07-13 16:36:44,602 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:44] "GET /logs HTTP/1.1" 200 -
+2025-07-13 16:36:44,640 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:36:44,787 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:44] "GET /static/js/logs.js HTTP/1.1" 200 -
+2025-07-13 16:36:44,855 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:44] "GET /socket.io/?EIO=4&transport=websocket&sid=TuQFJDgtkGanHHoOAAAG HTTP/1.1" 200 -
+2025-07-13 16:36:45,046 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:36:45,210 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:45] "GET /socket.io/?EIO=4&transport=polling&t=PW3TqMy HTTP/1.1" 200 -
+2025-07-13 16:36:45,210 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:45] "GET /api/logs HTTP/1.1" 200 -
+2025-07-13 16:36:45,504 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:45] "POST /socket.io/?EIO=4&transport=polling&t=PW3TqPa&sid=RfEFBrfCGXeDJe_IAAAI HTTP/1.1" 200 -
+2025-07-13 16:36:46,003 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:46] "GET /socket.io/?EIO=4&transport=polling&t=PW3TqPb&sid=RfEFBrfCGXeDJe_IAAAI HTTP/1.1" 200 -
+2025-07-13 16:36:46,317 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:46] "GET /api/logs HTTP/1.1" 200 -
+2025-07-13 16:36:49,280 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "GET /socket.io/?EIO=4&transport=websocket&sid=RfEFBrfCGXeDJe_IAAAI HTTP/1.1" 200 -
+2025-07-13 16:36:49,388 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "GET / HTTP/1.1" 200 -
+2025-07-13 16:36:49,506 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:36:49,631 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:36:49,641 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2025-07-13 16:36:49,776 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "GET /socket.io/?EIO=4&transport=polling&t=PW3TrUo HTTP/1.1" 200 -
+2025-07-13 16:36:49,792 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:36:49,833 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "POST /socket.io/?EIO=4&transport=polling&t=PW3TrWq&sid=eJD8doK9wz0mCFzRAAAK HTTP/1.1" 200 -
+2025-07-13 16:36:49,853 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:49] "GET /socket.io/?EIO=4&transport=polling&t=PW3TrWr&sid=eJD8doK9wz0mCFzRAAAK HTTP/1.1" 200 -
+2025-07-13 16:36:56,446 - INFO - 127.0.0.1 - - [13/Jul/2025 16:36:56] "POST /api/system/stop HTTP/1.1" 200 -
+2025-07-13 16:37:04,070 - INFO - 127.0.0.1 - - [13/Jul/2025 16:37:04] "GET /socket.io/?EIO=4&transport=websocket&sid=eJD8doK9wz0mCFzRAAAK HTTP/1.1" 200 -
+2025-07-13 16:37:43,506 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder - Copy\\app.py', reloading
+2025-07-13 16:37:43,507 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder - Copy\\app.py', reloading
+2025-07-13 16:37:43,507 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder - Copy\\app.py', reloading
+2025-07-13 16:37:44,936 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-13 16:37:52,794 - WARNING -  * Debugger is active!
+2025-07-13 16:37:52,800 - INFO -  * Debugger PIN: 105-789-474
+2025-07-13 16:44:31,464 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder - Copy\\test_camera.py', reloading
+2025-07-13 16:44:31,499 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder - Copy\\test_camera.py', reloading
+2025-07-13 16:44:31,501 - INFO -  * Detected change in 'D:\\PROJECTS\\facemask\\intruder - Copy\\test_camera.py', reloading
+2025-07-13 16:44:32,946 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-13 16:44:38,687 - WARNING -  * Debugger is active!
+2025-07-13 16:44:38,701 - INFO -  * Debugger PIN: 105-789-474
+2025-07-13 16:45:40,507 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:40] "GET / HTTP/1.1" 200 -
+2025-07-13 16:45:40,653 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:40] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-07-13 16:45:40,748 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:40] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-07-13 16:45:40,863 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:40] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2025-07-13 16:45:41,193 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:41] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:45:41,193 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:41] "GET /socket.io/?EIO=4&transport=polling&t=PW3VtBC HTTP/1.1" 200 -
+2025-07-13 16:45:41,224 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-13 16:45:41,448 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:41] "POST /socket.io/?EIO=4&transport=polling&t=PW3VtGV&sid=SoKuG5UmoLxIuPFkAAAA HTTP/1.1" 200 -
+2025-07-13 16:45:41,525 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:41] "GET /socket.io/?EIO=4&transport=polling&t=PW3VtGZ&sid=SoKuG5UmoLxIuPFkAAAA HTTP/1.1" 200 -
+2025-07-13 16:45:41,532 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:41] "GET /socket.io/?EIO=4&transport=polling&t=PW3VtLR&sid=SoKuG5UmoLxIuPFkAAAA HTTP/1.1" 200 -
+2025-07-13 16:45:43,349 - INFO - 127.0.0.1 - - [13/Jul/2025 16:45:43] "POST /api/system/start HTTP/1.1" 200 -
+2025-07-13 16:46:18,609 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:18] "GET /api/camera/test HTTP/1.1" 200 -
+2025-07-13 16:46:26,855 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:26] "GET /api/camera/test HTTP/1.1" 200 -
+2025-07-13 16:46:29,371 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:29] "GET /api/camera/test HTTP/1.1" 200 -
+2025-07-13 16:46:31,920 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:31] "GET /api/camera/test HTTP/1.1" 200 -
+2025-07-13 16:46:41,370 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:41] "GET /socket.io/?EIO=4&transport=websocket&sid=SoKuG5UmoLxIuPFkAAAA HTTP/1.1" 200 -
+2025-07-13 16:46:41,438 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:41] "GET /setup HTTP/1.1" 200 -
+2025-07-13 16:46:41,690 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:46:41,696 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:41] "GET /static/js/setup.js HTTP/1.1" 200 -
+2025-07-13 16:46:41,785 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:46:41,810 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PW3W62_ HTTP/1.1" 200 -
+2025-07-13 16:46:42,109 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:42] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:46:42,121 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:42] "POST /socket.io/?EIO=4&transport=polling&t=PW3W63L&sid=iL65qXBprIvvbAewAAAC HTTP/1.1" 200 -
+2025-07-13 16:46:42,135 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:42] "GET /socket.io/?EIO=4&transport=polling&t=PW3W63M&sid=iL65qXBprIvvbAewAAAC HTTP/1.1" 200 -
+2025-07-13 16:46:50,855 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:50] "GET / HTTP/1.1" 200 -
+2025-07-13 16:46:50,900 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:50] "GET /socket.io/?EIO=4&transport=websocket&sid=iL65qXBprIvvbAewAAAC HTTP/1.1" 200 -
+2025-07-13 16:46:51,108 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:46:51,124 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:46:51,221 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2025-07-13 16:46:51,244 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "GET /socket.io/?EIO=4&transport=polling&t=PW3W8MQ HTTP/1.1" 200 -
+2025-07-13 16:46:51,562 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "GET /api/system/status HTTP/1.1" 200 -
+2025-07-13 16:46:51,570 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "POST /socket.io/?EIO=4&transport=polling&t=PW3W8Mq&sid=jmpYM47kwWfV-MTOAAAE HTTP/1.1" 200 -
+2025-07-13 16:46:51,572 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "GET /socket.io/?EIO=4&transport=polling&t=PW3W8Mr&sid=jmpYM47kwWfV-MTOAAAE HTTP/1.1" 200 -
+2025-07-13 16:46:51,923 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:51] "GET /socket.io/?EIO=4&transport=polling&t=PW3W8SE&sid=jmpYM47kwWfV-MTOAAAE HTTP/1.1" 200 -
+2025-07-13 16:46:54,332 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:54] "GET /socket.io/?EIO=4&transport=websocket&sid=jmpYM47kwWfV-MTOAAAE HTTP/1.1" 200 -
+2025-07-13 16:46:54,355 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:54] "GET /logs HTTP/1.1" 200 -
+2025-07-13 16:46:54,650 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-13 16:46:54,704 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:54] "GET /static/js/logs.js HTTP/1.1" 200 -
+2025-07-13 16:46:54,706 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-07-13 16:46:55,016 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:55] "GET /socket.io/?EIO=4&transport=polling&t=PW3W9Cs HTTP/1.1" 200 -
+2025-07-13 16:46:55,021 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:55] "GET /api/logs HTTP/1.1" 200 -
+2025-07-13 16:46:55,284 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:55] "GET /api/logs HTTP/1.1" 200 -
+2025-07-13 16:46:55,354 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:55] "POST /socket.io/?EIO=4&transport=polling&t=PW3W9Hr&sid=RQ-vVjxKLVJSFfvSAAAG HTTP/1.1" 200 -
+2025-07-13 16:46:55,354 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:55] "GET /socket.io/?EIO=4&transport=polling&t=PW3W9Hs&sid=RQ-vVjxKLVJSFfvSAAAG HTTP/1.1" 200 -
+2025-07-13 16:46:59,906 - INFO - 127.0.0.1 - - [13/Jul/2025 16:46:59] "GET /socket.io/?EIO=4&transport=websocket&sid=RQ-vVjxKLVJSFfvSAAAG HTTP/1.1" 200 -
